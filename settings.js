@@ -37,7 +37,7 @@ global.packname = 'Sticker By'
 global.author = '𝚸𝚮𝚯𝚵𝚴𝚰𝚾\n\nContact: +917973456275'
 
 //set your menu picture
-global.elitepropp = 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg' //menu and thumb picture
+global.elitepropp = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3-ItzovSSAGGHEMK2Ypn8uH95tZlkc-KAGCGy7lZbiQtiPjJgOs5J0LUF&s=10' //menu and thumb picture
 
 
 
